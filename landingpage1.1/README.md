@@ -1,7 +1,7 @@
 # Atividade: Implementação de Novas Seções - Advocacia Prestígio
 
-**Aluno:** [SEU NOME AQUI]  
-**Disciplina:** Desenvolvimento Web  
+**Aluno:** [VANDERLI REIS]  
+**Disciplina:** TDS - Técnico em Desenvolvimento de Sistemas  
 **Data:** 23/02/2026  
 
 ---
