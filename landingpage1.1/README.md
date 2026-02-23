@@ -73,3 +73,18 @@ Site institucional para o escritório **Advocacia Prestígio**, desenvolvido em 
 
 ## 📱 Estrutura do Menu (com novas seções)
 
+Início (hero)
+
+Atuação (serviços)
+
+Depoimentos ⭐ NOVO
+
+Reconhecimento ⭐ NOVO
+
+Diferenciais
+
+Sobre
+
+Contato
+
+
